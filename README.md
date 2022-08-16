@@ -45,4 +45,4 @@ Here are instruction to use this repository
 
 ## Credits
 1. Dr. Trevor Michael Tomesh: consultation on directory structure.
-2. Tanu Nanda Prabhu: reference for GitHub repository structure.
+2. Tanu Nanda Prabhu: reference for GitHub repository structure (link to his repository : https://github.com/Tanu-N-Prabhu/Autonomous-RC-Car)
